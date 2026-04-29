@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hei Radio 🎙️
 
-<!--
-**hei-radio/hei-radio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quiet radio after work  
 
-Here are some ideas to get you started:
+Sharing thoughts, not details  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+- Just talking, not explaining  
+- Calm voice, simple moments  
+- Sometimes coding, sometimes silence  
+
+---
+
+“Just a voice, whenever it feels right 🎙️”
